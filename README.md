@@ -1,6 +1,8 @@
 ## Tic-Tac-Toe
 Minimax を使用した、◯✕ゲームで絶対に負けないAI。
 
+![](tictactoe_image.png)
+
 ## 説明
 ターミナルでrunner.pyファイルを起動させると、Pygameの画面が立ち上がり、ゲームが始められます。
 
